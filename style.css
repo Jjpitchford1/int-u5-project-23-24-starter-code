@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #e0f7fa;
+    background-color: #f5f4d0;
     /* Light cyan */
     text-align: center;
     margin: 0;
@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Arial', Helvetica;
     font-size: 48px;
     /* Larger font size for headings */
     color: #00796b;
